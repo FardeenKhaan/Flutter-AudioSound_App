@@ -1,8 +1,9 @@
 # audio_player
 
 A new Flutter project.
-
-## Getting Started
+In this Flutter Project You see the AppIcon, Open the Audio Player App and then If you Press any button then you would listen the great tunes and the app is User Friendly
+# Output
+![12Capture](https://github.com/user-attachments/assets/2f194e23-7657-408a-9a98-e8de2375ab39)
 
 This project is a starting point for a Flutter application.
 
